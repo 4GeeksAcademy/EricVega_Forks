@@ -1,0 +1,97 @@
+---
+template: online-cv
+skin: blue
+basic_info:
+  first_name: Eric
+  last_name: Vega
+  motto: I am an intuitive thinker with a thirst for knowledge.
+  focus: Linguistics and data
+  summary: >
+    I have a strong history in academia and aim to apply my research and
+    analytical skills to different roles.
+
+    A hardworking self-starter, I approach my work utilizing a blend of research skills, creative flair, critical
+
+    thinking, and analytical abilities. Through the various projects I have completed during my 
+
+    academic career, I've cultivated verbal and written communication skills through presentations
+
+    and written publications, created sustainable relationships with informants, and managed various forms
+
+    of human feedback including audio recordings, video recordings, and surveys. I have also learned the value
+
+    of teamwork by collaborating with others in different states and countries to co-create publications and information
+
+    technology resources. My experiences have provided me with a strong sense of self-discipline and
+
+    motivation in organizing my own work schedule, excellent organizational skills, and meticulous attention to 
+
+    detail. I also have experience in digesting data with the goal of finding significant patterns in order to
+
+    improve efficiency and effectiveness.
+  avatar: https://randomuser.me/api/portraits/men/32.jpg
+  email: eric.veghe@gmail.com
+  phone: 234 2342 342
+  website: asd.com
+  linkedin: https://www.linkedin.com/in/eric-vega-18a880241/
+  github: EricVega
+  twitter: ""
+  stack-overflow: null
+  languages:
+    - idiom: Spanish
+      level: Native
+    - idiom: English
+      level: Professional
+  interests:
+    - item: Climbing
+    - item: Gym
+    - item: Cooking
+education:
+  - degree: MSc in Computer Science
+    university: University of Barcelona
+    university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+    time: 2011 - 2016
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+
+        - Bullet point
+        - Bullet point
+experiences:
+  - role: IT Help Desk
+    time: 2018 - Present
+    company: Disproquima S.A.U., Terrassa, Spain
+    company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+      error sit voluptatem accusantium doloremque laudantium, totam rem
+      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+      architecto beatae vitae dicta sunt explicabo.
+
+        - Bullet point
+        - Bullet point
+projects:
+  intro: >
+    You can list your side projects or open source libraries in this section.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et
+    ligula in nunc bibendum fringilla a eu lectus.
+  assignments:
+    - title: IT Degree
+      project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      link: "#hook"
+      tagline: A responsive website template designed to help startups promote, market
+        and sell their products.
+skills:
+  toolset:
+    - name: Python & Django
+      level: 98%
+    - name: Javascript & jQuery
+      level: 98%
